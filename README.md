@@ -19,3 +19,7 @@ $ npm i // yarn
 ```
 $ npm run dev
 ```
+
+### API
+
+Download [Insomnia](https://insomnia.rest/) and import Insomnia_date.json.
