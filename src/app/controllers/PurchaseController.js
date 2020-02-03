@@ -6,7 +6,6 @@ const Queue = require('../services/Queue')
 
 class PurchaseController {
   async store(req, res) {
-    throw new Error('123')
     const { content } = req.body
 
     const customer = await User.findById(req.userId)
